@@ -1,3 +1,1 @@
-# ISC-Test-Repo 26_11_18
-/
-//
+# ISC-Test-Repo
